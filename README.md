@@ -1,6 +1,6 @@
 ###  방용수 깃허브👋
  <br>
- <h2>🐉Introduction</h2>
+ <h2>🤽‍♂️Introduction</h2>
   <br>
  <div align= center>
 <h1>A growing programmer with constant effort and quick understanding</h1>
