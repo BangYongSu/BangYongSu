@@ -1,4 +1,13 @@
 ###  방용수 깃허브👋
+ <br>
+ Introduction
+ <div align= center>
+<h1>A growing programmer with constant effort and quick understanding</h1>
+ </div>
+ <br>
+ <h2>1.Me</h2>
+ 
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbang9630)](https://solved.ac/bbang9630/)
 
 <div align=left> 
