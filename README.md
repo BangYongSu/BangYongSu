@@ -11,7 +11,7 @@
  
 <br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bbang9630)](https://solved.ac/bbang9630)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbang9630)](https://solved.ac/bbang9630)
 
 
 
