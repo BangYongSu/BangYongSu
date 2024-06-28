@@ -1,6 +1,6 @@
 ###  방용수 깃허브👋
  <br>
- <h2>Introduction</h2>
+ <h2>🐉Introduction</h2>
   <br>
  <div align= center>
 <h1>A growing programmer with constant effort and quick understanding</h1>
@@ -15,6 +15,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbang9630)](https://solved.ac/bbang9630)
 
 
+ <h2>Skills</h2>
 
 <div align=left> 
   <h2>Front End</h2>
@@ -35,6 +36,8 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dragonwater0417@gmail.com)](mailto:dragonwater0417@gmail.com)
 
 <!--
 **BangYongSu/BangYongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
