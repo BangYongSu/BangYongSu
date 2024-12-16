@@ -1,5 +1,4 @@
-###  방용수 깃허브👋
- <br>
+
  <h2>🤽‍♂️Introduction</h2>
  <div align= center>
 <h1>A growing programmer with constant effort and quick understanding</h1>
@@ -40,6 +39,8 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dragonwater0417@gmail.com)](mailto:dragonwater0417@gmail.com)
 
+
+![YongSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <!--
 **BangYongSu/BangYongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
