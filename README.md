@@ -5,12 +5,7 @@
  </div>
  <br>
  <h2>1.Me</h2>
- 
- 
 <br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbang9630)](https://solved.ac/bbang9630)
 
 
  <h2>Skills</h2>
@@ -39,9 +34,11 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dragonwater0417@gmail.com)](mailto:dragonwater0417@gmail.com)
 
-
-![YongSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangYongSu&show_icons=true&theme=radical)
-<!--
+ <div style="display: grid; grid-template-columns: 1fr 1fr; justify-items: end;">
+        <img src="https://github-readme-stats.vercel.app/api?username=BangYongSu&show_icons=true&theme=radical" alt="YongSu's GitHub stats" style="width: 56%;">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BangYongSu&layout=compact" alt="Top Langs" style="width: 34%;">
+</div>
+ <!--
 **BangYongSu/BangYongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
