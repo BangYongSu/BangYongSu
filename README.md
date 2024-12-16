@@ -40,7 +40,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dragonwater0417@gmail.com)](mailto:dragonwater0417@gmail.com)
 
 
-![YongSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![YongSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=BangYongSu&show_icons=true&theme=radical)
 <!--
 **BangYongSu/BangYongSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
